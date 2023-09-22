@@ -1,0 +1,2 @@
+* linguist-vendored
+*.stan linguist-vendored=false
