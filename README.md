@@ -1,3 +1,7 @@
-# TsunamiBHM
+***"Bayesian hierarchical modeling for probabilistic estimation of tsunami amplitude from far-field earthquake sources"*** by Georgios Boumis, Eric L. Geist, and Danhyang Lee (2023).
 
-This repository hosts data and codes from "**Bayesian hierarchical modeling for probabilistic estimation of tsunami amplitude from far-field earthquake sources**", a scientific article co-authored by Georgios Boumis, Eric L. Geist, and Danhyang Lee (2023). In the sub-folder "code", the Stan program for the Bayesian hierarchical model (BHM) and an R script to run the model are provided. In addition, different kinds of data used to develop the model are provided in the sub-folder "data". For those interested, R scripts for other analyses described in the article are available upon request! 
+## Abstract
+. . . (*under review*)
+
+## Details
+The "code" folder contains the Stan script for the Bayesian hierarchical model (BHM) and an R script to run the model with the use of the rstan package. Different data used for this analysis are provided inside the "data" folder.
