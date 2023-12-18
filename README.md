@@ -1,4 +1,4 @@
-Boumis, G., Geist, E. L., & Lee, D. (2023). Bayesian hierarchical modeling for probabilistic estimation of tsunami amplitude from far-field earthquake sources. Journal of Geophysical Research: Oceans, 128, e2023JC02000. [https://doi.org/10.1029/2023JC020002](https://doi.org/10.1029/2023JC020002)
+Boumis, G., Geist, E. L., & Lee, D. (2023). Bayesian hierarchical modeling for probabilistic estimation of tsunami amplitude from far-field earthquake sources. *Journal of Geophysical Research: Oceans*, 128, e2023JC02000. [https://doi.org/10.1029/2023JC020002](https://doi.org/10.1029/2023JC020002)
 <p align="center">
   <img src="map.png"/>
 </p>
